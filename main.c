@@ -5,6 +5,7 @@ int main()
 {
     int a;
     float b;
+    double c;
     printf("enter a=");
     scanf("%i",&a);
     printf("enter b=");
